@@ -34,7 +34,7 @@ Affiliation
 - 2019年，第七届“发现杯”全国大学生互联网软件设计大奖赛西部赛区二等奖
 - 2019年，EMG-EIT 感知器结合 EIT 与肌电信号对手势进行识别，参加陆装举办的“超能勇士-2019” 单兵穿戴技术与外骨骼系统挑战赛（深圳赛区）获得优胜奖
 - 2020年，第六届安徽省"互联网+"大学生创新创业大赛 安徽省高教主赛道银奖
-- 2021年，第七届安徽省“互联网+”大学生创新创业大赛 安徽省高教主赛道金奖 [证书](https://github.com/Irobot-chf/hfchen.github.io/tree/205b9701d5457c2ecc41d3993846b314cfba7fc0/images)
+- 2021年，第七届安徽省“互联网+”大学生创新创业大赛 安徽省高教主赛道金奖 [证书](https://github.com/Irobot-chf/hfchen.github.io/blob/205b9701d5457c2ecc41d3993846b314cfba7fc0/images/2021%E4%BA%92%E8%81%94%E7%BD%91%E9%87%91.png)
 - 2021年，科学岛研究生双创中心首届研究生创新创业大赛二等奖
 
 Honors and Awards
