@@ -8,41 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-Haofeng Chen received the B.S. degree in mechanical design, manufacture, and automation from Xidian University, Xi’an, China, in 2018. He is currently working toward the Ph.D. degree with the Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China. He is involved in research on EIT-based tactile sensors with the Bio-Inspired Robotics and Intelligent Material Laboratory, Institute of Advanced Manufacturing Technology, Chinese Academy of Sciences. His research interests include biomedical image/signal processing, electrical impedance tomography, machine learning, and tactile sensing.
+Short Biography
+======
+Haofeng Chen (陈皓枫) received his B.S. degree in mechanical design, manufacture, and automation from Xidian University, Xi’an, China, in 2018. He is currently pursuing a Ph.D. degree at the Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China. 
+
+He is actively involved in research on EIT-based tactile sensors at the Bio-Inspired Robotics and Intelligent Material Laboratory, Institute of Advanced Manufacturing Technology, Chinese Academy of Sciences. His research interests encompass biomedical image/signal processing, electrical impedance tomography, machine learning, and tactile sensing.
+
+教育经历
+======
+- 2020.09-至今	中国科学技术大学	精密仪器及机械（博士）	
+- 2018.09-2020.08	中国科学技术大学	仪器科学与技术（硕士）	
+- 2014.09-2018.06	西安电子科技大学	机械设计制造及其自动化（本科）	   
 
 Affiliation
 ======
-Institute of Intelligent Machines, Hefei Institutes of Physical Science Chinese Academy of Sciences, Hefei, China
-University of Science and Technology of China, Hefei, Anhui, China
+- Institute of Intelligent Machines, Hefei Institutes of Physical Science Chinese Academy of Sciences, Hefei, China
+- University of Science and Technology of China, Hefei, Anhui, China
 
-Getting started
+竞赛经历
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 2015年，陕西省第十次大学生高等数学（本科）竞赛，省级二等奖
+- 2016年，TI杯陕西省西安五校联赛，校级二等奖
+- 2017年，第五届全国大学生工程训练综合能力竞赛（环形避障组）陕西赛，省级一等奖
+- 2019年，中国科大校园算法邀请赛获得二等奖，第四名
+- 2019年，第七届“发现杯”全国大学生互联网软件设计大奖赛西部赛区二等奖
+- 2019年，EMG-EIT 感知器结合 EIT 与肌电信号对手势进行识别，参加陆装举办的“超能勇士-2019” 单兵穿戴技术与外骨骼系统挑战赛（深圳赛区）获得优胜奖
+- 2020年，第六届安徽省"互联网+"大学生创新创业大赛 安徽省高教主赛道银奖
+- 2021年，第七届安徽省“互联网+”大学生创新创业大赛 安徽省高教主赛道金奖
+- 2021年，科学岛研究生双创中心首届研究生创新创业大赛二等奖
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Honors and Awards
+======
+- 校优秀学生标兵（2016.11）
+- 校优秀毕业生（2018.6）
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Activities
+======
+- [2019年9月26日-29日，EIT课题小组参加“超能勇士-2019” 先进技术展并获得优胜奖。](http://www.bihfcas.net/xw/19.9.26.html)
+- [2019年12月22日，陈皓枫，王鹏参加“中国科大校园算法邀请赛”并获得二等奖。](http://www.bihfcas.net/xw/19.12.22.html)
+- [2021年7月13日，陈皓枫、马刚、杨轩轩获得　“互联网+”　创新创业大赛安徽省赛金奖、科学岛研究生创新创业大赛二等奖等荣誉。](http://www.bihfcas.net/xw/21.07.13.html)
+- [2022年12月4日—12月9日，陈皓枫、杨轩轩参加2022IEEE ROBIO国际会议。](http://www.bihfcas.net/xw/22.12.04.html)
 
 For more info
 ------
