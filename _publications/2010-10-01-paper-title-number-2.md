@@ -15,5 +15,6 @@ citation: 'H. Chen, X. Yang, P. Wang et al., “A Large-Area Flexible Tactile Se
 [视频2](https://www.bilibili.com/video/BV1Lj411C73C/?spm_id_from=333.999.0.0&vd_source=a962aee96d3df4e413ad86fa13aea283)
 
 ---
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://irobot-chf.github.io/hfchen.github.io/files/BIAM.pdf)
+
 
