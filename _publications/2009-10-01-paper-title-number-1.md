@@ -12,6 +12,6 @@ citation: 'Chen H, Ma G, Wang P, et al. A Bio-Impedance Analysis Method Based on
 ![image](https://github.com/Irobot-chf/hfchen.github.io/assets/52485558/9dd64156-2815-45e6-a3e5-d732f2166fc7)
 
 [视频](https://www.bilibili.com/video/BV1YN411J7hx/?spm_id_from=333.999.0.0&vd_source=a962aee96d3df4e413ad86fa13aea283)
-[Download paper here](https://github.com/Irobot-chf/hfchen.github.io/blob/master/files/BIAM.pdf)
+[Download paper here](https://github.com/Irobot-chf/hfchen.github.io/blob/814748dc9432f5668287241326d451d9b1add6f2/files/BIAM.pdf)
 
 #Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
