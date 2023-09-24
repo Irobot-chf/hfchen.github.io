@@ -17,7 +17,7 @@ author_profile: true
   [^_^]:[[视频1]](https://www.bilibili.com/video/BV1yh4y1a7H9/?vd_source=a962aee96d3df4e413ad86fa13aea283)
   [^_^]:[[视频2]](https://www.bilibili.com/video/BV1Lj411C73C/?spm_id_from=333.999.0.0&vd_source=a962aee96d3df4e413ad86fa13aea283)
   
-  [[paperurl]]( https://ieeexplore.ieee.org/document/9722834)
+  [[paperurl]](https://pubs.acs.org/doi/10.1021/acsaelm.2c01394?ref=pdf)
   
   [^_^]:[[Download paper here]](https://irobot-chf.github.io/hfchen.github.io/files/BIAM.pdf)
   
