@@ -41,6 +41,7 @@ Honors and Awards
 ======
 - 校优秀学生标兵（2016.11）
 - 校优秀毕业生（2018.6）
+- 第十六届中国智能机器人大会[优秀论文](http://www.bihfcas.net/xw/23.10.27.html)(2023.10)
 
 Activities
 ======
