@@ -42,7 +42,8 @@ Honors and Awards
 - 校优秀学生标兵（2016.11）
 - 校优秀毕业生（2018.6）
 - 第十六届中国智能机器人大会[优秀论文](http://www.bihfcas.net/xw/23.10.27.html)(2023.10)
-
+- 中国科学院合肥物质院[2023年度“悦群品学兼优奖学金”博士生一等奖](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/t20231215_6943279.html)（2023.12）
+  
 Activities
 ======
 - [2019年9月26日-29日，EIT课题小组参加“超能勇士-2019” 先进技术展并获得优胜奖。](http://www.bihfcas.net/xw/19.9.26.html)
