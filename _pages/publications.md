@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+* **Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation**
+  
+  [^_^]:**Chen Haofeng**, Yang Xuanxuan, Ma Gang, Wang Xiaojie*.
+  
+[[paperurl]](https://ieeexplore.ieee.org/document/10403929)
+
 ## 2023
 * **A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method**
   
