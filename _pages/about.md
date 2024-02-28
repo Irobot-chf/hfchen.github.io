@@ -14,18 +14,32 @@ Haofeng Chen (陈皓枫) received his B.S. degree in mechanical design, manufact
 
 He is actively involved in research on EIT-based tactile sensors at the Bio-Inspired Robotics and Intelligent Material Laboratory, Institute of Advanced Manufacturing Technology, Chinese Academy of Sciences. His research interests encompass biomedical image/signal processing, electrical impedance tomography, machine learning, and tactile sensing.
 
-教育经历
+EDUCATION
 ======
-- 2020.09-至今	中国科学技术大学	精密仪器及机械（博士）	
-- 2018.09-2020.08	中国科学技术大学	仪器科学与技术（硕士）	
-- 2014.09-2018.06	西安电子科技大学	机械设计制造及其自动化（本科）	   
 
+- **Ph.D.**  
+  *University of Science and Technology of China*  
+  Precision Instruments and Machinery  
+  *2018.09 - 2024.06 (Expected)*
+
+- **B.E.**  
+  *Xidian University*  
+  Mechanical Design, Manufacturing, and Automation  
+  *2014.09 - 2018.06*
+  
+<!-- % - 2020.09-至今	中国科学技术大学	精密仪器及机械（博士）	
+% - 2018.09-2020.08	中国科学技术大学	仪器科学与技术（硕士）	
+% - 2014.09-2018.06	西安电子科技大学	机械设计制造及其自动化（本科）	  
+-->
+  
+
+  
 Affiliation
 ======
 - Institute of Intelligent Machines, Hefei Institutes of Physical Science Chinese Academy of Sciences, Hefei, China
 - University of Science and Technology of China, Hefei, Anhui, China
 
-竞赛经历
+Awards
 ======
 - 2015年，陕西省第十次大学生高等数学（本科）竞赛，省级二等奖
 - 2016年，TI杯陕西省西安五校联赛，校级二等奖
