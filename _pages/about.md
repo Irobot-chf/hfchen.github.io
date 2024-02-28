@@ -41,22 +41,24 @@ Affiliation
 
 Awards
 ======
-- 2015年，陕西省第十次大学生高等数学（本科）竞赛，省级二等奖
+- 2015年，陕西省第十次大学生高等数学（本科）竞赛，省级二等奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/高数竞赛.jpg)
 - 2016年，TI杯陕西省西安五校联赛，校级二等奖
-- 2017年，第五届全国大学生工程训练综合能力竞赛（环形避障组）陕西赛，省级一等奖 
-- 2019年，中国科大校园算法邀请赛获得二等奖，第四名 [证书](https://irobot-chf.github.io/hfchen.github.io//images/1中科大算法大赛.jpg)
+- 2017年，第五届全国大学生工程训练综合能力竞赛（环形避障组）陕西赛，省级一等奖 [证明](https://irobot-chf.github.io/hfchen.github.io//images/工程训练获奖证明.pdf)
+- 2019年，中国科大校园算法邀请赛获得二等奖，第四名 [证书](https://irobot-chf.github.io/hfchen.github.io//images/1中科大算法大赛.jpg) [现场](https://irobot-chf.github.io/hfchen.github.io//images/微信图片_20240228191953.jpg)
 - 2019年，第七届“发现杯”全国大学生互联网软件设计大奖赛西部赛区二等奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/2发现杯二等奖.jpg)
 - 2019年，EMG-EIT 感知器结合 EIT 与肌电信号对手势进行识别，参加陆装举办的“超能勇士-2019” 单兵穿戴技术与外骨骼系统挑战赛（深圳赛区）获得优胜奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/3超能勇士1.jpg)
 - 2020年，第六届安徽省"互联网+"大学生创新创业大赛 安徽省高教主赛道银奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/4第六届互联网加安徽省银奖.jpg)
 - 2021年，第七届安徽省“互联网+”大学生创新创业大赛 安徽省高教主赛道金奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/2021互联网金.png)
 - 2021年，科学岛研究生双创中心首届研究生创新创业大赛二等奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/6科学岛创新奖.jpg)
-
-Honors and Awards
+- 2023年，第十六届中国智能机器人大会[优秀论文](http://www.bihfcas.net/xw/23.10.27.html)(2023.10)
+- 2023年，中国科学院合肥物质院[2023年度“悦群品学兼优奖学金”博士生一等奖](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/t20231215_6943279.html) [名单](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/P020231215539828540094.pdf)（2023.12）
+  
+Honors 
 ======
-- 校优秀学生标兵（2016.11）
-- 校优秀毕业生（2018.6）
-- 第十六届中国智能机器人大会[优秀论文](http://www.bihfcas.net/xw/23.10.27.html)(2023.10)
-- 中国科学院合肥物质院[2023年度“悦群品学兼优奖学金”博士生一等奖](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/t20231215_6943279.html) [名单](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/P020231215539828540094.pdf)（2023.12）
+- 2016年，校优秀学生标兵 [证书](https://irobot-chf.github.io/hfchen.github.io//images/优秀学生标兵.jpg)
+- 2018年，校优秀毕业生 [证书](https://irobot-chf.github.io/hfchen.github.io//images/优秀毕业生.jpg)
+- 2022年，安徽省研究生“创新创业之星”的荣誉称号 [证书](https://irobot-chf.github.io/hfchen.github.io//images/8 创新创业之星.jpg)
+- 2022年，常州先进制造技术研究所2021年度秀研究生 [证书](https://irobot-chf.github.io/hfchen.github.io//images/2先进所优秀研究生.png)
   
 Activities
 ======
