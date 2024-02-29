@@ -33,3 +33,7 @@ To support this, all changes to the underlying code appear as a closed issue wit
 ## 个人使用提示
 首页信息更新，请修改：\page\about
 ![image](https://github.com/Irobot-chf/hfchen.github.io/assets/52485558/64caf36f-5673-412b-b2fb-330615f5f930)
+
+修改首页信息，请修改_config.yml
+![image](https://github.com/Irobot-chf/hfchen.github.io/assets/52485558/9276c51f-f6e4-489c-b6d1-a757b433d8c3)
+
