@@ -24,7 +24,7 @@ Skills
 * Libraries and Tools: Tensorflow, PyTorch
 * Hardware: STM32, Circuit Design, PCB Layout
 
-Publications and Patents
+Publications 
 ======
 *	H. Chen, Ma G, Wang P, et al. A Bio-Impedance Analysis Method Based on Human Hand Anatomy for Hand Gesture Recognition [J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10.
 *	H. Chen, Yang X, Wang P, et al. A Large-Area Flexible Tactile Sensor for Multi-Touch and Force Detection Using Electrical Impedance Tomography [J]. IEEE Sensors Journal, 2022, 22(7): 7119-7129.
@@ -35,6 +35,9 @@ Publications and Patents
 *	Wang P, H. Chen, Ma G, et al. Deep learning scheme PSPNet for electrical impedance tomography[C]// Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2021. SPIE,2021: 223-230.
 *	H. Chen, Yang X, Geng J, et al. A convolutional neural network based electrical impedance tomography method for skin-like hydrogel sensing[C]// 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 5-9 Dec. 2022.2022: 178-183.
 *	H. Chen, Yang X, Ma G, et al. Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN [C]//2024 IEEE International Conference on Robotics and Automation (ICRA), 2023. （已接收）
+	
+Patents
+======
 *	王晓杰, 陈皓枫, 杨轩轩, 耿加露, 马刚. 一种基于电阻抗成像的一体化触觉传感器的检测方法 [P]. 专利号：ZL202210132777.8.（发明专利，已授权）
 *	陈皓枫, 杨轩轩, 马刚, 王晓杰, 耿加露. 一种低成本且便携式的电阻抗成像电路 [P]. 专利号：ZL202222593360.X.（实用新型，已授权）
 *	王晓杰, 王玉成, 马刚, 陈皓枫, 王鹏, 曹洪新, 赵娜娜. 一种融合生物电阻抗信息和肌电信息的手势识别系统 [P]. 专利号：ZL202010390176.8.（发明专利，已授权）
