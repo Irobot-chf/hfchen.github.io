@@ -87,8 +87,9 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=IBlC5j4AAAAJ&hl=zh-CN"
-  email:Hfchen95@mail.ustc.edu.cn            : "Hfchen95@mail.ustc.edu.cn"
+  email            : "Hfchen95@mail.ustc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Haofeng-Chen-2/research"
+  CSDN             : "https://blog.csdn.net/irober?type=blog"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CSDN             : "https://blog.csdn.net/irober?type=blog"
 
 
 # Reading Files
