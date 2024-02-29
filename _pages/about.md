@@ -50,8 +50,8 @@ Awards
 - 2020年，第六届安徽省"互联网+"大学生创新创业大赛 安徽省高教主赛道银奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/4第六届互联网加安徽省银奖.jpg)
 - 2021年，第七届安徽省“互联网+”大学生创新创业大赛 安徽省高教主赛道金奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/2021互联网金.png)
 - 2021年，科学岛研究生双创中心首届研究生创新创业大赛二等奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/6科学岛创新奖.jpg)
-- 2023年，第十六届中国智能机器人大会[优秀论文](http://www.bihfcas.net/xw/23.10.27.html)(2023.10)
-- 2023年，中国科学院合肥物质院[2023年度“悦群品学兼优奖学金”博士生一等奖](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/t20231215_6943279.html) [名单](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/P020231215539828540094.pdf)（2023.12）
+- 2023年，第十六届中国智能机器人大会[优秀论文](http://www.bihfcas.net/xw/23.10.27.html)
+- 2023年，中国科学院合肥物质院[2023年度“悦群品学兼优奖学金”博士生一等奖](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/t20231215_6943279.html) [名单](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/P020231215539828540094.pdf)
   
 Honors 
 ======
